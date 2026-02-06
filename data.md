@@ -66,7 +66,7 @@ Here we can use the split function which allows for an parameter to be passed in
 2. Mad Libs Project
 
 # Booleans and Control Flow
-InPython we can evaluate statements to True or False.These are referred to as boolean data types. Something can evaulate to either True OR false, never both. We can use conditional statements, if, elif (else if) and  else to create a control flow in our applications. 
+InPython we can evaluate statements to True or False. These are referred to as boolean data types. Something can evaulate to either True OR false, never both. We can use conditional statements, if, elif (else if) and  else to create a control flow in our applications. 
 
 ```python
 day_of_week = input("what day is it? ")
